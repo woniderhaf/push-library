@@ -1,7 +1,7 @@
 # react-native-awesome-library
 
 library for push
-test library
+
 
 ## Installation
 
